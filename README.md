@@ -45,12 +45,7 @@ Ce projet comporte deux applications interactives développées avec Streamlit p
 ### Vue d’ensemble
 
 ```plaintext
-+---------------------+        +--------------------------+
-|  Application Client | <----> |  Base de Données Partagée |
-+---------------------+        +--------------------------+
-         ^
-         |
-         |
-+-------------------------+
-| Application Restaurant  |
-+-------------------------+
++---------------------+        +--------------------------+           +--------------------------+
+|  Application Client | <----> |  Base de Données Partagée |  <---->  |    Application Restaurant |
++---------------------+        +--------------------------+           +--------------------------+
+
