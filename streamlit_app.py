@@ -1,6 +1,8 @@
 # Import python packages
 import streamlit as st
 from snowflake.snowpark.functions import col
+import requests
+
 
 cnx=st.connection("snowflake")
 session=cnx.session()
@@ -63,7 +65,6 @@ if ingredient_list:
 #st.write(my_insert_stmt)
 
 
-import requests
 
 
 
