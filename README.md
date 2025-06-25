@@ -10,7 +10,7 @@ Ce projet comporte deux applications interactives développées avec Streamlit p
   👉 [Accéder à l'application client](https://melaniessmoothies-cmalwzvavhyoevkn4bwvcw.streamlit.app/)
 
 - 🧾 **Application Restaurant – Gestion des commandes** :  
-  👉 [Accéder à l'application restaurant](https://melaniessmoothies-xappq43wkxa86ppwges5hpf.streamlit.app/) *(à remplacer si lien différent)*
+  👉 [Accéder à l'application restaurant](https://melaniessmoothies-xappq43wkxa86ppwges5hpf.streamlit.app/) 
 
 ---
 
